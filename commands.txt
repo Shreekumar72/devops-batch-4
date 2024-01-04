@@ -1,2 +1,4 @@
 git int
 git status
+git clone
+git remote -v
